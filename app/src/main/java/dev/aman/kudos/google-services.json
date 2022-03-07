@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "374076394383",
+    "project_id": "kudos-a2cd8",
+    "storage_bucket": "kudos-a2cd8.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:374076394383:android:3a32238db7f6a05af719fa",
+        "android_client_info": {
+          "package_name": "dev.aman.kudos"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "374076394383-tu4n3714h8om5uf35qsm94q369fdsfij.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "dev.aman.kudos",
+            "certificate_hash": "6883671790776e1a90788ca5872c7b42171f8702"
+          }
+        },
+        {
+          "client_id": "374076394383-rro8vs6jrstrpu7elro38mtq36ifpmbq.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDDMuhhHvLyEGjNBbzA_-j3gGOsI8Mm8TQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "374076394383-rro8vs6jrstrpu7elro38mtq36ifpmbq.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
