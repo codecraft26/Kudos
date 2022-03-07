@@ -35,6 +35,13 @@ class MainActivity : AppCompatActivity() {
         } else {
             binding.emailtext.setText(email)
         }
+
+        val phoneNumber = currentUser.phoneNumber
+        if (phoneNumber == null) {
+            binding.phonetext.setText("Not Available")
+        } else {
+            binding.phonetext.setText(phoneNumber)
+        }
     }
 
     fun onSignOutButtonClicked(view: View) {
