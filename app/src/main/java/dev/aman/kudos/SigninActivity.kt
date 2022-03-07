@@ -42,6 +42,7 @@ class SigninActivity : AppCompatActivity() {
 
           val intent= Intent(this@SigninActivity,MainActivity::class.java)
             startActivity(intent)
+            finish()
         } else {
 
             if (response != null) {
